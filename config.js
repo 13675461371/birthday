@@ -48,6 +48,6 @@ var config = {
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
         wish_message: "生日快乐!!!",
-        story: "A MESSAGE FOR DEAR",
+        story: "A MESSAGE FOR 杜泽奕",
     }
 };
