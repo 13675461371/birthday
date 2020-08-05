@@ -19,8 +19,8 @@ var config = {
         "具有超高颜值的",
         "小寿星杜泽奕的",
         "私房美照饱饱眼福吧",
-        "美女总是": "./bbbb/美女对镜拍.jpeg"
-        "高傲冷艳的": "./bbbb/dzy美照.jpg"
+        "美女总是":,
+        "高傲冷艳的",
         "好了不能再放了",
         "要保持神秘感",
         "最后的最后",
@@ -41,13 +41,13 @@ var config = {
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "准备好了吧",
-        play: "音乐",
-        bannar_coming: "灯光",
-        balloons_flying: "好像少点东西",
-        cake_fadein: "蛋糕？",
-        light_candle: "蜡烛？",
-        wish_message: "生日快乐!!!",
-        story: "A MESSAGE FOR 杜泽奕",
+        turn_on:"准备好了吧",
+        play:"音乐",
+        bannar_coming:"灯光",
+        balloons_flying:"好像少点东西",
+        cake_fadein:"蛋糕？",
+        light_candle:"蜡烛？",
+        wish_message:"生日快乐!!!",
+        story:"A MESSAGE FOR 杜泽奕",
     }
 };
